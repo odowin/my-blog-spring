@@ -1,4 +1,4 @@
-package org.wildcodeschool.myblog.model;
+package org.wild.myblog.model;
 
 import jakarta.persistence.*;
 
